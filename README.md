@@ -69,13 +69,6 @@ A **powerful Qt app** to help you manage and optimize your **Arch Linux system**
 
 ---
 
-## 📈 My Stats
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Tomieka&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
-</div>
-
----
 
 ## 🎯 GitHub Stats & Languages
 
